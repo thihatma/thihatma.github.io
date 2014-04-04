@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Song | Thiha Tin Maung Aye]]></title>
-  <link href="http://thiha.me/blog/categories/song/atom.xml" rel="self"/>
-  <link href="http://thiha.me/"/>
-  <updated>2014-04-04T22:03:39+06:30</updated>
-  <id>http://thiha.me/</id>
+  <link href="http://thihatma.github.io/blog/categories/song/atom.xml" rel="self"/>
+  <link href="http://thihatma.github.io/"/>
+  <updated>2014-04-04T22:11:57+06:30</updated>
+  <id>http://thihatma.github.io/</id>
   <author>
     <name><![CDATA[Thiha Tin Maung Aye]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Happy]]></title>
-    <link href="http://thiha.me/blog/2014/04/04/happy/"/>
+    <link href="http://thihatma.github.io/blog/2014/04/04/happy/"/>
     <updated>2014-04-04T21:19:55+06:30</updated>
-    <id>http://thiha.me/blog/2014/04/04/happy</id>
+    <id>http://thihatma.github.io/blog/2014/04/04/happy</id>
     <content type="html"><![CDATA[<p>if i ever did that,&hellip;.</p>
 ]]></content>
   </entry>

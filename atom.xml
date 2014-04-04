@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Thiha Tin Maung Aye]]></title>
-  <link href="http://thiha.me/atom.xml" rel="self"/>
-  <link href="http://thiha.me/"/>
-  <updated>2014-04-04T22:03:39+06:30</updated>
-  <id>http://thiha.me/</id>
+  <link href="http://thihatma.github.io/atom.xml" rel="self"/>
+  <link href="http://thihatma.github.io/"/>
+  <updated>2014-04-04T22:11:57+06:30</updated>
+  <id>http://thihatma.github.io/</id>
   <author>
     <name><![CDATA[Thiha Tin Maung Aye]]></name>
     
@@ -15,54 +15,54 @@
   
   <entry>
     <title type="html"><![CDATA[Happy Birthday]]></title>
-    <link href="http://thiha.me/blog/2014/04/04/happy-birthday/"/>
+    <link href="http://thihatma.github.io/blog/2014/04/04/happy-birthday/"/>
     <updated>2014-04-04T22:02:58+06:30</updated>
-    <id>http://thiha.me/blog/2014/04/04/happy-birthday</id>
+    <id>http://thihatma.github.io/blog/2014/04/04/happy-birthday</id>
     <content type="html"><![CDATA[<p><strong><em>Happy Birthday my friend</em></strong></p>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[Foundation 5]]></title>
-    <link href="http://thiha.me/blog/2014/04/04/foundation-5/"/>
+    <link href="http://thihatma.github.io/blog/2014/04/04/foundation-5/"/>
     <updated>2014-04-04T21:55:33+06:30</updated>
-    <id>http://thiha.me/blog/2014/04/04/foundation-5</id>
+    <id>http://thihatma.github.io/blog/2014/04/04/foundation-5</id>
     <content type="html"><![CDATA[<p>Just testing post&hellip;.</p>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[Happy]]></title>
-    <link href="http://thiha.me/blog/2014/04/04/happy/"/>
+    <link href="http://thihatma.github.io/blog/2014/04/04/happy/"/>
     <updated>2014-04-04T21:19:55+06:30</updated>
-    <id>http://thiha.me/blog/2014/04/04/happy</id>
+    <id>http://thihatma.github.io/blog/2014/04/04/happy</id>
     <content type="html"><![CDATA[<p>if i ever did that,&hellip;.</p>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[Lose Big]]></title>
-    <link href="http://thiha.me/blog/2014/04/04/lose-big/"/>
+    <link href="http://thihatma.github.io/blog/2014/04/04/lose-big/"/>
     <updated>2014-04-04T21:17:50+06:30</updated>
-    <id>http://thiha.me/blog/2014/04/04/lose-big</id>
+    <id>http://thihatma.github.io/blog/2014/04/04/lose-big</id>
     <content type="html"><![CDATA[<p><strong><em> Lose big baby </em></strong></p>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[Raise Your Glass]]></title>
-    <link href="http://thiha.me/blog/2014/04/04/raise-your-glass/"/>
+    <link href="http://thihatma.github.io/blog/2014/04/04/raise-your-glass/"/>
     <updated>2014-04-04T09:59:30+06:30</updated>
-    <id>http://thiha.me/blog/2014/04/04/raise-your-glass</id>
+    <id>http://thihatma.github.io/blog/2014/04/04/raise-your-glass</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[Hello Octopress]]></title>
-    <link href="http://thiha.me/blog/2014/04/04/hello-octopress/"/>
+    <link href="http://thihatma.github.io/blog/2014/04/04/hello-octopress/"/>
     <updated>2014-04-04T09:20:43+06:30</updated>
-    <id>http://thiha.me/blog/2014/04/04/hello-octopress</id>
+    <id>http://thihatma.github.io/blog/2014/04/04/hello-octopress</id>
     <content type="html"><![CDATA[<p><strong>Hello Everyone! </strong>
 This an example post for more information see:</p>
 ]]></content>

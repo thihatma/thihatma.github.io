@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://thiha.me/sitemap.xml 
+Sitemap: http://thihatma.github.io/sitemap.xml 
