@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: IT | Thiha Tin Maung Aye]]></title>
+  <link href="http://thiha.me/blog/categories/it/atom.xml" rel="self"/>
+  <link href="http://thiha.me/"/>
+  <updated>2014-04-04T21:22:57+06:30</updated>
+  <id>http://thiha.me/</id>
+  <author>
+    <name><![CDATA[Thiha Tin Maung Aye]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Hello Octopress]]></title>
+    <link href="http://thiha.me/blog/2014/04/04/hello-octopress/"/>
+    <updated>2014-04-04T09:20:43+06:30</updated>
+    <id>http://thiha.me/blog/2014/04/04/hello-octopress</id>
+    <content type="html"><![CDATA[<p><strong>Hello Everyone! </strong>
+This an example post for more information see:</p>
+]]></content>
+  </entry>
+  
+</feed>

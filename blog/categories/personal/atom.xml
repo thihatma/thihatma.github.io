@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Personal | Thiha Tin Maung Aye]]></title>
+  <link href="http://thiha.me/blog/categories/personal/atom.xml" rel="self"/>
+  <link href="http://thiha.me/"/>
+  <updated>2014-04-04T21:22:57+06:30</updated>
+  <id>http://thiha.me/</id>
+  <author>
+    <name><![CDATA[Thiha Tin Maung Aye]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Lose Big]]></title>
+    <link href="http://thiha.me/blog/2014/04/04/lose-big/"/>
+    <updated>2014-04-04T21:17:50+06:30</updated>
+    <id>http://thiha.me/blog/2014/04/04/lose-big</id>
+    <content type="html"><![CDATA[<p><strong><em> Lose big baby </em></strong></p>
+]]></content>
+  </entry>
+  
+</feed>
