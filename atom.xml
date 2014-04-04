@@ -4,7 +4,7 @@
   <title><![CDATA[Thiha Tin Maung Aye]]></title>
   <link href="http://thiha.me/atom.xml" rel="self"/>
   <link href="http://thiha.me/"/>
-  <updated>2014-04-04T21:56:34+06:30</updated>
+  <updated>2014-04-04T22:03:39+06:30</updated>
   <id>http://thiha.me/</id>
   <author>
     <name><![CDATA[Thiha Tin Maung Aye]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Happy Birthday]]></title>
+    <link href="http://thiha.me/blog/2014/04/04/happy-birthday/"/>
+    <updated>2014-04-04T22:02:58+06:30</updated>
+    <id>http://thiha.me/blog/2014/04/04/happy-birthday</id>
+    <content type="html"><![CDATA[<p><strong><em>Happy Birthday my friend</em></strong></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Foundation 5]]></title>

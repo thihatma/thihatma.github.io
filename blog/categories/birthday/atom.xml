@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: birthday | Thiha Tin Maung Aye]]></title>
+  <link href="http://thiha.me/blog/categories/birthday/atom.xml" rel="self"/>
+  <link href="http://thiha.me/"/>
+  <updated>2014-04-04T22:03:39+06:30</updated>
+  <id>http://thiha.me/</id>
+  <author>
+    <name><![CDATA[Thiha Tin Maung Aye]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Happy Birthday]]></title>
+    <link href="http://thiha.me/blog/2014/04/04/happy-birthday/"/>
+    <updated>2014-04-04T22:02:58+06:30</updated>
+    <id>http://thiha.me/blog/2014/04/04/happy-birthday</id>
+    <content type="html"><![CDATA[<p><strong><em>Happy Birthday my friend</em></strong></p>
+]]></content>
+  </entry>
+  
+</feed>
