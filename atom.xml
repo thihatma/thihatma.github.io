@@ -4,7 +4,7 @@
   <title><![CDATA[Thiha Tin Maung Aye]]></title>
   <link href="http://thihatma.github.io/atom.xml" rel="self"/>
   <link href="http://thihatma.github.io/"/>
-  <updated>2014-04-04T22:46:39+06:30</updated>
+  <updated>2014-04-05T20:04:36+06:30</updated>
   <id>http://thihatma.github.io/</id>
   <author>
     <name><![CDATA[Thiha Tin Maung Aye]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Happy Birthday Wine Chit]]></title>
+    <link href="http://thihatma.github.io/blog/2014/04/05/happy-birthday-wine-chit/"/>
+    <updated>2014-04-05T20:03:33+06:30</updated>
+    <id>http://thihatma.github.io/blog/2014/04/05/happy-birthday-wine-chit</id>
+    <content type="html"><![CDATA[<h3>Happy Birthday Wine Chit</h3>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Happy Birthday]]></title>
