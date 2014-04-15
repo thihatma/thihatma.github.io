@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: thingyan | Thiha Tin Maung Aye]]></title>
+  <link href="http://thihatma.github.io/blog/categories/thingyan/atom.xml" rel="self"/>
+  <link href="http://thihatma.github.io/"/>
+  <updated>2014-04-15T14:31:30+06:30</updated>
+  <id>http://thihatma.github.io/</id>
+  <author>
+    <name><![CDATA[Thiha Tin Maung Aye]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Thingyan]]></title>
+    <link href="http://thihatma.github.io/blog/2014/04/15/thingyan/"/>
+    <updated>2014-04-15T14:29:53+06:30</updated>
+    <id>http://thihatma.github.io/blog/2014/04/15/thingyan</id>
+    <content type="html"><![CDATA[<p><strong><em>Happy Myanmar New Year</em></strong>
+Wish U all the best!</p>
+]]></content>
+  </entry>
+  
+</feed>
